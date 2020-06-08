@@ -16,4 +16,4 @@
 > grid : 행렬을 지정하여 버튼이나 엔트리의 위치를 설정해줄 수 있따.
 >  * sticky : 해당 개체의 위치를 고정시켜주는 속성
 >  * columnspan : 열 위치 조정
-<img src="/imageUpload/client_ui.PNG"  width="700" height="370">
+<img src="/raspberry/imageUpload/client_ui.PNG"  width="700" height="370">
